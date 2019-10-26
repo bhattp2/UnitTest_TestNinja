@@ -18,3 +18,12 @@ D:\Unit Testing\Introduction\source-code-starter\source-code-starter\TestNinja\T
 D:\Unit Testing\Introduction\source-code-starter\source-code-starter\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.csproj.CoreCompileInputs.cache
 D:\Unit Testing\Introduction\source-code-starter\source-code-starter\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.dll
 D:\Unit Testing\Introduction\source-code-starter\source-code-starter\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.pdb
+D:\Unit Testing\Introduction\source-code-starter\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\NUnit3.TestAdapter.dll
+D:\Unit Testing\Introduction\source-code-starter\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.engine.dll
+D:\Unit Testing\Introduction\source-code-starter\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.engine.api.dll
+D:\Unit Testing\Introduction\source-code-starter\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\Mono.Cecil.dll
+D:\Unit Testing\Introduction\source-code-starter\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Unit Testing\Introduction\source-code-starter\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Unit Testing\Introduction\source-code-starter\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\Mono.Cecil.Rocks.dll
+D:\Unit Testing\Introduction\source-code-starter\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.framework.dll
+D:\Unit Testing\Introduction\source-code-starter\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.framework.xml
