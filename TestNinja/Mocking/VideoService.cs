@@ -5,13 +5,15 @@ using System.IO;
 using System.Linq;
 using Newtonsoft.Json;
 
+
 namespace TestNinja.Mocking
 {
     public class VideoService
     {
-        public string ReadVideoTitle()
+        public string ReadVideoTitle(IFileReader fileReader)
         {
-            var str = File.ReadAllText("video.txt");
+            // var str = File.ReadAllText("video.txt");
+            var str = fileReader.Read("video.txt");
             var video = JsonConvert.DeserializeObject<Video>(str);
             if (video == null)
                 return "Error parsing the video.";
